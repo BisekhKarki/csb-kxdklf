@@ -1,0 +1,2 @@
+(this["webpackJsonphooks-usestate-todo"]=this["webpackJsonphooks-usestate-todo"]||[]).push([[0],{13:function(t,e,c){},14:function(t,e,c){"use strict";c.r(e);var o=c(1),s=c(3),n=c(0);var r=function(){return Object(n.jsx)(n.Fragment,{children:Object(n.jsx)("h1",{children:"Hello World"})})};c(13);function i(){return Object(n.jsx)("div",{className:"App",children:Object(n.jsx)(r,{})})}const j=document.getElementById("root");Object(s.createRoot)(j).render(Object(n.jsx)(o.StrictMode,{children:Object(n.jsx)(i,{})}))}},[[14,1,2]]]);
+//# sourceMappingURL=main.1acd0c69.chunk.js.map
